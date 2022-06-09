@@ -1,2 +1,4 @@
-package exercicioextra;public class CondicionaisRetornaStringPositivoNegativo {
+package exercicioextra;
+
+public class CondicionaisRetornaStringPositivoNegativo {
 }

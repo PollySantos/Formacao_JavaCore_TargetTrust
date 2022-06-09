@@ -1,4 +1,4 @@
-package exemplo01.exemplo06lacos;
+package exemplo06lacos;
 
 /*
  * Crie um método que recebe o código inteiro da área e retorna qual é o estado correspondente.

@@ -1,4 +1,4 @@
-package exemplo01.exemplo06lacos;
+package exemplo06lacos;
 
 /*
 Faça um método que recebe uma lista de números inteiros
