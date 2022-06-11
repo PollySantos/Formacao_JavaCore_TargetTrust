@@ -1,4 +1,4 @@
-package exemplo06lacos;
+package exemplo07switch;
 
 public class ExemploSwitch {
 
