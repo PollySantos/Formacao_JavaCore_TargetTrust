@@ -98,6 +98,5 @@ import org.junit.jupiter.api.Test;
             Assertions.assertEquals("A) COMPILADO B) USA JVM C) TIPADO", textoEmMaiusculo);
         }
 
-
     }
 }
