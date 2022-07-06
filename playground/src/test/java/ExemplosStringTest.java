@@ -10,8 +10,6 @@ public class ExemplosStringTest {
 
         Assertions.assertEquals("A) COMPILADO B) USA JVM C) TIPADO", textoEmMaiusculo);
     }
-    import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 
     public class ExemplosStringsTest {
 
@@ -97,7 +95,6 @@ import org.junit.jupiter.api.Test;
 
             Assertions.assertEquals("A) COMPILADO B) USA JVM C) TIPADO", textoEmMaiusculo);
         }
-
 
     }
 }

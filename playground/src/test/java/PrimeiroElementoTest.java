@@ -1,4 +1,4 @@
-import exemplo05array.PrimeiroElemento;
+import javacore.exemplo05array.PrimeiroElemento;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
