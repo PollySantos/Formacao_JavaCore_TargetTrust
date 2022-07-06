@@ -1,4 +1,4 @@
-package exemplo16excecoes;
+package javacore.exemplo16excecoes;
 
 public class ArquivoInformadoInvalidoException extends RuntimeException {
     public ArquivoInformadoInvalidoException(String mensagem){

@@ -1,4 +1,4 @@
-package exemplo15heranca;
+package javacore.exemplo15heranca;
 
 public class Aluno extends Pessoa {
 

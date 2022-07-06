@@ -1,4 +1,4 @@
-package exemplo16excecoes;
+package javacore.exemplo16excecoes;
 
 import java.io.File;
 import java.io.FileNotFoundException;

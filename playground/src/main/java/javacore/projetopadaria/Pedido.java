@@ -1,4 +1,4 @@
-package projetopadaria;
+package javacore.projetopadaria;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package projetopadaria;
+package javacore.projetopadaria;
 
 public enum StatusPedido {
     AGUARDANDO,

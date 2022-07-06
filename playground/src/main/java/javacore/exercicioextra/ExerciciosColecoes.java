@@ -1,4 +1,4 @@
-package exemplo14collections;
+package javacore.exercicioextra;
 
 /*
 - Crie uma coleção de Strings vazia chamada `pessoas`.

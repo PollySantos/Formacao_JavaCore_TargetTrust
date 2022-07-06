@@ -1,7 +1,7 @@
-package exemplo17ordenacao.despesa;
+package javacore.exemplo17ordenacao.despesa;
 
-import exemplo17ordenacao.despesa.Despesa;
-import exemplo17ordenacao.despesa.DespesaPorValorComparator;
+import javacore.exemplo17ordenacao.despesa.Despesa;
+import javacore.exemplo17ordenacao.despesa.DespesaPorValorComparator;
 
 import java.util.ArrayList;
 import java.util.Collections;

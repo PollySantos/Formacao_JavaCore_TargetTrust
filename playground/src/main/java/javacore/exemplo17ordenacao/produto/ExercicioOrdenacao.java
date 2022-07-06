@@ -1,4 +1,4 @@
-package exemplo17ordenacao.produto;
+package javacore.exemplo17ordenacao.produto;
 
 import java.util.ArrayList;
 import java.util.Collections;

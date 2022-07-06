@@ -1,4 +1,4 @@
-package exemplo17ordenacao.despesa;
+package javacore.exemplo17ordenacao.despesa;
 
 import java.util.Comparator;
 

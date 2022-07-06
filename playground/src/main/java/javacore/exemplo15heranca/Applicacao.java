@@ -1,4 +1,4 @@
-package exemplo15heranca;
+package javacore.exemplo15heranca;
 
 import java.util.ArrayList;
 import java.util.List;

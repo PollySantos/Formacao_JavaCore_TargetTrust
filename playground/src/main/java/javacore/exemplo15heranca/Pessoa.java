@@ -1,4 +1,4 @@
-package exemplo15heranca;
+package javacore.exemplo15heranca;
 
 //Classe abstrata (public abstract) não permite dar NEW!!
 public abstract class Pessoa {

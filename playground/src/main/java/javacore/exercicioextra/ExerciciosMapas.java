@@ -1,4 +1,4 @@
-package exemplo14collections;
+package javacore.exercicioextra;
 /*
 - A partir da lista campeoes:
 - Crie um mapa chamado `quantidadeTitulos` onde a chave é o país e o valor é a quantidade de vezes que foi campeão.

@@ -1,4 +1,4 @@
-package exemplo13interfaces;
+package javacore.exemplo13interfaces;
 
 public interface MeioTransporte {
 

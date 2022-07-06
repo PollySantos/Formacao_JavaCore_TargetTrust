@@ -1,4 +1,4 @@
-package exemplo17ordenacao.produto;
+package javacore.exemplo17ordenacao.produto;
 
 import java.util.HashSet;
 import java.util.Set;
