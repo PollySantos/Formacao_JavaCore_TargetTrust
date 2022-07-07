@@ -41,6 +41,4 @@ public class AplicacaoComExcecao {
             throw new ArquivoInformadoInvalidoException("Informe um arquivo válido");
         }
     }
-
-
 }
